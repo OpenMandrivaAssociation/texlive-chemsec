@@ -1,6 +1,6 @@
 Name:		texlive-chemsec
 Version:	46972
-Release:	1
+Release:	2
 Summary:	Automated creation of numeric entity labels
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chemsec
